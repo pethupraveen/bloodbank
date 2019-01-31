@@ -1,0 +1,51 @@
+.wrapper-page-lg {
+	width: auto;
+	max-width: 800px !important;
+}
+
+.btn-red {
+	background: #f00;
+	color: #fff;
+}
+.btn-red:hover{
+	color: #fff;
+}
+.text-red {
+	color: #f00;
+}
+.bg-white {
+	background: #fff;
+}
+.no-padding {
+	padding: 0 !important;
+}
+.no-margin {
+	margin: 0 !important;
+}
+.bg-red {
+	background: #f00;
+	color: #fff;
+}
+
+.md-content h2 {
+	font-size: 24px;
+	padding: 20px;
+	margin: 0;
+	text-align: center;
+}
+
+.md-blood-donated-con {
+	background: url('../../website/img/slider/slider_img_02.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+
+.dashboard-quote {
+	padding: 15px 20px;
+	font-size:16px;
+	line-height: 31px;
+}
+.dashboard-quote i {
+	color:#FF2E2E;
+}
